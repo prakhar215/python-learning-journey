@@ -1,0 +1,9 @@
+
+# Without type casting
+a = input("Enter first number: ")
+b = input("Enter second number: ")
+
+print(a + b)  # 10 and 20 gives 1020
+x = 8.9
+y = int(x)
+print(y)
